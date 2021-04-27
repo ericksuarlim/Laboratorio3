@@ -1,0 +1,1 @@
+Para este problema se utilizo el patron AbstracFactory porque dentro de la editorial podemos tener una gran familia de produccion: Libros, Revistas, Periodicos, etc. El metodo AbstracFactory ayuda justamente en eso; cuando uno tiene un conjunto de productos que pertenecen a un mismo grupo.
